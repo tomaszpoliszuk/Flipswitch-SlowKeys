@@ -1,0 +1,11 @@
+Package: com.tomaszpoliszuk.flipswitchslowkeys
+Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Slow Keys
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch Toggle for Slow Keys
+Maintainer: BigBoss
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
