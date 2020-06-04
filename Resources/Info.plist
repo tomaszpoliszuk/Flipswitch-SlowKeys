@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>SlowKeys</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.PS.SlowKeys</string>
+	<string>com.tomaszpoliszuk.SlowKeys</string>
 	<key>CFBundleDisplayName</key>
 	<string>Slow Keys</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -27,6 +27,6 @@
 	<key>NSPrincipalClass</key>
 	<string>SlowKeysSwitch</string>
 	<key>alternate-action-url</key>
-	<string>prefs:root=General&amp;path=ACCESSIBILITY</string>
+	<string>prefs:root=ACCESSIBILITY</string>
 </dict>
 </plist>
